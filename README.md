@@ -1,10 +1,10 @@
-What it does
 Myth Sentinels is a play-to-earn strategy game where players summon, train, and battle unique
 Sentinel NFTs. Players earn tokens through victories, stake to unlock bonuses, and trade assets
 in a decentralized marketplace. The entire gameplay loop — minting, battling, trading, and
 governance — is built on OG Chain for fairness and transparency.
 
 🔹 The problem it solves
+
 ● Ownership & Trust: Traditional games keep assets locked in centralized servers. Myth
 Sentinels gives players true ownership of Sentinels, items, and achievements as NFTs.
 ● Verifiable Battles: Most blockchain games struggle to prove fairness in gameplay. With
@@ -13,7 +13,8 @@ OG Compute + OG DA, every battle outcome is transparent and verifiable.
 Sentinels uses staking + DAO governance to create a long-term, community-driven
 economy.
 
-🔹 Challenges I ran into
+🔹 Challenges 
+
 ● Designing fair PvP battles that balance strategy and randomness while still being
 computationally efficient on OG Compute.
 ● Storing dynamic Sentinel evolution data on OG Storage without bloating metadata.
