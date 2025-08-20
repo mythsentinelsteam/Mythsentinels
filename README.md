@@ -10,8 +10,8 @@ The entire gameplay loop — minting, battling, trading, and governance — is b
 
 ## 🔹 Problem It Solves  
 - **Ownership & Trust**: Traditional games lock assets in centralized servers. Myth Sentinels gives players true ownership of NFTs.  
-- **Verifiable Battles**: Using OG Compute + OG DA, every battle outcome is transparent and verifiable.  
-- **Sustainable Play-to-Earn**: Tokenomics with staking + DAO governance ensure a long-term, community-driven economy.  
+- **Verifiable Battles**: Using 0G Compute + 0G DA, every battle outcome is transparent and verifiable.  
+- **Sustainable Play-to-Earn**: Tokenomics with staking + community-driven economy.  
 
 ---
 
